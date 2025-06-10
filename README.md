@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **j3nnifer00/j3nnifer00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# 👋 Hi, I'm Jennifer :)
+
+I'm a Software Developer and aspiring Data Scientist, passionate about transforming data into real-world impact. In today’s world, data is one of the most valuable resources. I like utilising them from uncovering insights from historical data, even predicting future behaviour through mathematical simulations, and training machines to perform data-driven tasks.
+
+- 🌱 I'm currently interested in advancing my skills in AWS Cloud and Machine Learning.
+- 👩‍💻 Software Dev, Data Analytics, Simulation, Machine Learning
+- ✉️ Reach out via <a href="https://www.linkedin.com/in/jennifernam00/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="linkedin logo"  />
+  </a>
