@@ -23,4 +23,4 @@ I'm a Software Developer and aspiring Data Scientist, passionate about transform
 - 👩‍💻 Software Dev, Data Analytics, Simulation, Machine Learning
 - ✉️ Reach out via <a href="https://www.linkedin.com/in/jennifernam00/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" alt="linkedin logo"  /></a>
-- 🏫 Uni courseworks: @Hyunjin00
+- 🏫 Uni courseworks: <a href="https://github.com/Hyunjin00">@Hyunjin00</a>
